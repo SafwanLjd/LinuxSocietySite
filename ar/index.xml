@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>مجتمع لينكس</title>
+    <link>https://linuxsociety.xyz/ar/</link>
+    <description>Recent content on مجتمع لينكس</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <lastBuildDate>Sun, 02 Apr 2023 06:28:40 +0300</lastBuildDate><atom:link href="https://linuxsociety.xyz/ar/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
