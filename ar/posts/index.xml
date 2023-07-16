@@ -7,5 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language>
     <lastBuildDate>Sun, 02 Apr 2023 06:24:39 +0300</lastBuildDate><atom:link href="https://linuxsociety.xyz/ar/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>موقف مايكروسوفت من لينكس والمصدر المفتوح</title>
+      <link>https://linuxsociety.xyz/ar/posts/microsoft-linux-relationship/</link>
+      <pubDate>Sun, 16 Jul 2023 07:15:33 +0300</pubDate>
+      
+      <guid>https://linuxsociety.xyz/ar/posts/microsoft-linux-relationship/</guid>
+      <description>كما يعرف الجميع، منافس نظام لينكس (Linux) الأول هو مايكروسوفت (Microsoft) ونظام تشغيلها ويندوز (Windows)، ولهذا من المتوقع أن تكون العلاقة بينهما تتمثل بطابع من العداوة؛ وبالفعل هكذا كان الحال، حيث كانت مايكروسوفت في السابق العدو الرئيسي لـLinux وحركة المصدر المفتوح، ولكن هل هكذا هو الحال في يومنا هذا؟
+لإنعاش الذاكرة، &amp;ldquo;البرمجيات مفتوحة المصدر&amp;rdquo; ترمز إلى البرامج التي يتم نشر الأكواد البرمجية الخاص بها للعامة، وتكون متاحة للجميع لغاية الشفافية، وكذلك لإمكانية تطويرها من قبل المجتمع أو تعديلها وإعادة نشرها بحرية، وما قد يكون أشهر مثال على البرمجيات مفتوحة المصدر والمشروع الرائد في حركة المصدر المفتوح هو نظام التشغيل Linux.</description>
+    </item>
+    
   </channel>
 </rss>
