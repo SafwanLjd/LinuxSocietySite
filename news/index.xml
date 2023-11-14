@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Announcements on Linux Society</title>
+    <title>News on Linux Society</title>
     <link>https://linuxsociety.xyz/news/</link>
-    <description>Recent content in Announcements on Linux Society</description>
+    <description>Recent content in News on Linux Society</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 02 Apr 2023 06:24:39 +0300</lastBuildDate><atom:link href="https://linuxsociety.xyz/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RESOURCES: First SEED Labs Security Training</title>
+      <link>https://linuxsociety.xyz/news/post-seed-labs-1/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/news/post-seed-labs-1/</guid>
+      <description>This page contains the relevant resources from the first SEED Labs security training, which was held on Wednesday, November 8th.
+What is &amp;ldquo;SEED Labs&amp;rdquo;? # Links # SEED Labs Website Lab* Page Lab* Instructions Lab* Download Links * &amp;ldquo;Lab&amp;rdquo; refers to the &amp;ldquo;SQL Injection Attack Lab&amp;rdquo;, which was the focus of this training session.
+How to Install a SEED Labs Machine # Here&amp;rsquo;s a short video to remind you how to install a SEED Labs machine</description>
+    </item>
+    
   </channel>
 </rss>

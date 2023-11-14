@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>الإعلانات on مجتمع لينكس</title>
+    <title>الأخبار on مجتمع لينكس</title>
     <link>https://linuxsociety.xyz/ar/news/</link>
-    <description>Recent content in الإعلانات on مجتمع لينكس</description>
+    <description>Recent content in الأخبار on مجتمع لينكس</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language>
     <lastBuildDate>Sun, 02 Apr 2023 06:24:39 +0300</lastBuildDate><atom:link href="https://linuxsociety.xyz/ar/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>مصادر: أول جلسة تدريبية على SEED Labs</title>
+      <link>https://linuxsociety.xyz/ar/news/post-seed-labs-1/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/ar/news/post-seed-labs-1/</guid>
+      <description>تحتوي هذه الصفحة على المصادر ذات الصلة من أول جلسة تدريبية خاصة بـSEED Labs، والذي عُقدت يوم الأربعاء، 8 نوفمبر.
+ما هو (SEED Labs)؟ # الروابط # موقع SEED Labs الإلكتروني صفحة المختبر* إرشادات المختبر* روابط تنزيل المختبر* * (المختبر) يشير إلى مختبر الـSEED Labs تحت عنوان (SQL Injection Attack Lab) والذي كان محور هذه الجلسة التدريبية.
+كيفية تنصيب مختبر SEED Labs # هذا فيديو قصير لتذكيرك بكيفية تنصيب مختبر SEED Labs على جهازك</description>
+    </item>
+    
   </channel>
 </rss>
