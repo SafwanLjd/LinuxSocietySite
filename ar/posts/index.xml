@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>المدونة على مجتمع لينكس</title>
+    <title>المدونة on مجتمع لينكس</title>
     <link>https://linuxsociety.xyz/ar/posts/</link>
-    <description>ما هو جديد من المدونة على مجتمع لينكس</description>
+    <description>Recent content in المدونة on مجتمع لينكس</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language>
+    <copyright>CC-BY-SA 3.0</copyright>
     <lastBuildDate>Sun, 02 Apr 2023 06:24:39 +0300</lastBuildDate><atom:link href="https://linuxsociety.xyz/ar/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>موقف مايكروسوفت من لينكس والمصدر المفتوح</title>
