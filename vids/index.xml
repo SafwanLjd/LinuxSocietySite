@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on Linux Society</title>
+    <link>https://linuxsociety.xyz/vids/</link>
+    <description>Recent content in Videos on Linux Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC-BY-SA 3.0</copyright>
+    <lastBuildDate>Mon, 27 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/vids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WORKSHOP: Intro to Linux</title>
+      <link>https://linuxsociety.xyz/vids/intro-to-linux/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/vids/intro-to-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WORKSHOP: LaTeX</title>
+      <link>https://linuxsociety.xyz/vids/latex/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/vids/latex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
