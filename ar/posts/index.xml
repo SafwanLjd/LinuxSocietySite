@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language>
     <copyright>CC-BY-SA 3.0</copyright>
-    <lastBuildDate>Sun, 16 Jul 2023 07:15:33 +0300</lastBuildDate><atom:link href="https://linuxsociety.xyz/ar/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/ar/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>المعرفة المفتوحة: نظرة أوسع لمفهوم الانفتاح</title>
+      <link>https://linuxsociety.xyz/ar/posts/open-knowledge/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/ar/posts/open-knowledge/</guid>
+      <description>رغم اهتمامنا بالقضايا المتعلقة بالبرمجيات مفتوحة المصدر، إلا أن مفهوم «الانفتاح» يشمل مجالات أوسع من مجال البرمجيات. إن الحركات التي تطالب بالعلم المفتوح، البيانات المفتوحة، البحث العلمي المفتوح، والوصول المفتوح كلها بنفس أهمية حركة البرمجيات مفتوحة المصدر، وذلك لمن تهمه مسائل الحرية والشفافية والجودة. يشمل مصطلح «المعرفة المفتوحة» كل من هذه المفاهيم، وغيرها.
+ونظرًا لكونه مفهومًا بهذا الشمول، يصعب كتابة مقال واحد يكفي لتغطية جميع أبعاده. مع ذلك، نأمل أن تكون محاولتنا هذه نقطة بداية تدفع القارئ المهتم لدراسة هذا الموضوع والبحث فيه بشكل أعمق.</description>
+    </item>
+    
     <item>
       <title>موقف مايكروسوفت من لينكس والمصدر المفتوح</title>
       <link>https://linuxsociety.xyz/ar/posts/microsoft-linux-relationship/</link>
