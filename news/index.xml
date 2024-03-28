@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC-BY-SA 3.0</copyright>
-    <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing The 01 Light</title>
+      <link>https://linuxsociety.xyz/news/01-light/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/news/01-light/</guid>
+      <description>Announcement Tweet # Introducing the 01 Developer Preview.
+Order or build your own today: https://t.co/ROEcj9jVPX
+The 01 Light is a portable voice interface that controls your home computer. It can see your screen, use your apps, and learn new skills.
+This is only the beginning for 01— the… pic.twitter.com/J5VoWlCI5i
+&amp;mdash; Open Interpreter (@OpenInterpreter) March 21, 2024 Announcement Video # </description>
+    </item>
+    
     <item>
       <title>REGISTRATION OPEN: Git Training by JOSA</title>
       <link>https://linuxsociety.xyz/news/josa-git-training/</link>
