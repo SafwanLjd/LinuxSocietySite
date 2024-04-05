@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>الفيديوهات on مجتمع لينكس</title>
+    <link>https://linuxsociety.xyz/ar/vids/</link>
+    <description>Recent content in الفيديوهات on مجتمع لينكس</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <copyright>CC-BY-SA 3.0</copyright>
+    <lastBuildDate>Mon, 27 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/ar/vids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ورشة عمل: مقدمة إلى لينكس</title>
+      <link>https://linuxsociety.xyz/ar/vids/intro-to-linux/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/ar/vids/intro-to-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ورشة عمل: لاتيك</title>
+      <link>https://linuxsociety.xyz/ar/vids/latex/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/ar/vids/latex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

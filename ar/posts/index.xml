@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>المدونة on مجتمع لينكس</title>
+    <link>https://linuxsociety.xyz/ar/posts/</link>
+    <description>Recent content in المدونة on مجتمع لينكس</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <copyright>CC-BY-SA 3.0</copyright>
+    <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/ar/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>لينكس في العالم العربي والإسلامي</title>
+      <link>https://linuxsociety.xyz/ar/posts/arabic-linux/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/ar/posts/arabic-linux/</guid>
+      <description>تشتهر أنظمة لينكس بقابليتها للتعديل ومرونتها وفقًا لاحتياجات المستخدم، وتعتبر الأصناف المختلفة من لينكس (والمعروفة باسم «التوزيعات») أكثر ما يميزه، حيث هناك عدد قد يبدو لا نهائي منها، فكيف كانت لمسة الوطن العربي في هذا الوسط؟
+تسابقت توزيعات لينكس على مر السنين إلا أن توزيعات مثل &amp;ldquo;Ubuntu&amp;rdquo; أو &amp;ldquo;Fedora&amp;rdquo; جذبت الاهتمام أكثر من قريناتها وصارت تعمل كأساس لبناء توزيعات أخرى، تستمد تطبيقاتها الأساسية من أحدى التوزعتين المذكورتين آنفًا ويُضاف للتوزيعة المستحدثة ما يتناسب مع الغاية الأساسية لها.</description>
+    </item>
+    
+    <item>
+      <title>المعرفة المفتوحة: نظرة أوسع لمفهوم الانفتاح</title>
+      <link>https://linuxsociety.xyz/ar/posts/open-knowledge/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/ar/posts/open-knowledge/</guid>
+      <description>رغم اهتمامنا بالقضايا المتعلقة بالبرمجيات مفتوحة المصدر، إلا أن مفهوم «الانفتاح» يشمل مجالات أوسع من مجال البرمجيات. إن الحركات التي تطالب بالعلم المفتوح، البيانات المفتوحة، البحث العلمي المفتوح، والوصول المفتوح كلها بنفس أهمية حركة البرمجيات مفتوحة المصدر، وذلك لمن تهمه مسائل الحرية والشفافية والجودة. يشمل مصطلح «المعرفة المفتوحة» كل من هذه المفاهيم، وغيرها.
+ونظرًا لكونه مفهومًا بهذا الشمول، يصعب كتابة مقال واحد يكفي لتغطية جميع أبعاده. مع ذلك، نأمل أن تكون محاولتنا هذه نقطة بداية تدفع القارئ المهتم لدراسة هذا الموضوع والبحث فيه بشكل أعمق.</description>
+    </item>
+    
+    <item>
+      <title>موقف مايكروسوفت من لينكس والمصدر المفتوح</title>
+      <link>https://linuxsociety.xyz/ar/posts/microsoft-linux-relationship/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/ar/posts/microsoft-linux-relationship/</guid>
+      <description>كما يعرف الجميع، منافس نظام لينكس (Linux) الأول هو مايكروسوفت (Microsoft) ونظام تشغيلها ويندوز (Windows)، ولهذا من المتوقع أن تكون العلاقة بينهما تتمثل بطابع من العداوة؛ وبالفعل هكذا كان الحال، حيث كانت مايكروسوفت في السابق العدو الرئيسي لـLinux وحركة المصدر المفتوح، ولكن هل هكذا هو الحال في يومنا هذا؟
+لإنعاش الذاكرة، &amp;ldquo;البرمجيات مفتوحة المصدر&amp;rdquo; ترمز إلى البرامج التي يتم نشر الأكواد البرمجية الخاص بها للعامة، وتكون متاحة للجميع لغاية الشفافية، وكذلك لإمكانية تطويرها من قبل المجتمع أو تعديلها وإعادة نشرها بحرية، وما قد يكون أشهر مثال على البرمجيات مفتوحة المصدر والمشروع الرائد في حركة المصدر المفتوح هو نظام التشغيل Linux.</description>
+    </item>
+    
+  </channel>
+</rss>

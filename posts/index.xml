@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Linux Society</title>
+    <link>https://linuxsociety.xyz/posts/</link>
+    <description>Recent content in Blog on Linux Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC-BY-SA 3.0</copyright>
+    <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux in the Arab and Islamic World</title>
+      <link>https://linuxsociety.xyz/posts/arabic-linux/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/posts/arabic-linux/</guid>
+      <description>Linux based systems are famous for their customizability and flexibility to cater to the user&amp;rsquo;s needs, and the existence of different types of Linux (known as &amp;ldquo;distributions&amp;rdquo; or &amp;ldquo;distros&amp;rdquo;) is considered one of its defining features, as is what might seem an infinite amount of distros, so how did the Arab world leave its touch here?
+Linux distros have competed over the years, but distros such as &amp;ldquo;Ubuntu&amp;rdquo; or &amp;ldquo;Fedora&amp;rdquo; attracted more attention than their counterparts and began to serve as a basis for building other distros, whose basic applications are derived from one of the two aforementioned distros, and the rest is customized to cater to the needs of a specific community.</description>
+    </item>
+    
+    <item>
+      <title>Open Knowledge: A Broader View on the Concept of Openness</title>
+      <link>https://linuxsociety.xyz/posts/open-knowledge/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/posts/open-knowledge/</guid>
+      <description>Despite our concern with issues related to open-source software, the concept of “openness” encompasses much more than the realm of software. Movements advocating for open science, open data, open research, and open access are all as important as open-source software for those concerned with freedom, transparency, and quality.
+Open knowledge includes all of these concepts (including open-source), and more. As the concept is largely broad, a comprehensive treatment of the topic in a single post is not feasible; we hope, however, that this acts as an introductory general overview that drives the curious reader to learn more and carry out their own research on the topic.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft&#39;s Stance on Linux and Open Source</title>
+      <link>https://linuxsociety.xyz/posts/microsoft-linux-relationship/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/posts/microsoft-linux-relationship/</guid>
+      <description>As everyone knows, the primary competitor of the Linux operating system is Microsoft and its Windows operating system. Therefore, their relationship is expected to have a sense of hostility, and indeed, that was the case. Microsoft used to be the biggest enemy of Linux and the open-source movement. But is that still the case today?
+As a refresher, &amp;ldquo;open-source software&amp;rdquo; refers to programs whose source code is made available to the public, allowing for transparency and the ability for the community to develop, modify, and redistribute them freely.</description>
+    </item>
+    
+  </channel>
+</rss>

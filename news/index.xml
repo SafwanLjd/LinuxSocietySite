@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Linux Society</title>
+    <link>https://linuxsociety.xyz/news/</link>
+    <description>Recent content in News on Linux Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC-BY-SA 3.0</copyright>
+    <lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing The 01 Light</title>
+      <link>https://linuxsociety.xyz/news/01-light/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/news/01-light/</guid>
+      <description>Announcement Tweet # Introducing the 01 Developer Preview.
+Order or build your own today: https://t.co/ROEcj9jVPX
+The 01 Light is a portable voice interface that controls your home computer. It can see your screen, use your apps, and learn new skills.
+This is only the beginning for 01— the… pic.twitter.com/J5VoWlCI5i
+&amp;mdash; Open Interpreter (@OpenInterpreter) March 21, 2024 Announcement Video [Arabic CC] # </description>
+    </item>
+    
+    <item>
+      <title>REGISTRATION OPEN: Git Training by JOSA</title>
+      <link>https://linuxsociety.xyz/news/josa-git-training/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/news/josa-git-training/</guid>
+      <description>What is Git? # Git is a vital version control system used for tracking changes in files and coordinating work among teams. It enables efficient management of various versions of a project through branching and merging, making it crucial for non-linear development.
+Key to Git&amp;rsquo;s ecosystem are platforms like GitHub and GitLab, which offer web-based hosting for Git repositories. These services not only store projects but also provide tools for collaboration, issue tracking, and code sharing, making them indispensable in modern software development.</description>
+    </item>
+    
+    <item>
+      <title>RESOURCES: First SEED Labs Security Training</title>
+      <link>https://linuxsociety.xyz/news/post-seed-labs-1/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/news/post-seed-labs-1/</guid>
+      <description>This page contains the relevant resources from the first SEED Labs security training, which was held on Wednesday, November 8th.
+What is &amp;ldquo;SEED Labs&amp;rdquo;? # Links # SEED Labs Website Lab* Page Lab* Instructions Lab* Download Links * &amp;ldquo;Lab&amp;rdquo; refers to the &amp;ldquo;SQL Injection Attack Lab&amp;rdquo;, which was the focus of this training session.
+How to Install a SEED Labs Machine # Here&amp;rsquo;s a short video to remind you how to install a SEED Labs machine</description>
+    </item>
+    
+  </channel>
+</rss>

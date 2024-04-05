@@ -1,0 +1,647 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html
+  lang="ar"
+  dir="rtl"
+  class="scroll-smooth"
+  data-default-appearance="light"
+  data-auto-appearance="true"
+><head>
+  <meta charset="utf-8" />
+  
+    <meta http-equiv="content-language" content="ar" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="rgb(255,255,255)" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  
+  <title>موقف مايكروسوفت من لينكس والمصدر المفتوح &middot; مجتمع لينكس</title>
+    <meta name="title" content="موقف مايكروسوفت من لينكس والمصدر المفتوح &middot; مجتمع لينكس" />
+  
+  <meta name="description" content="كما يعرف الجميع، منافس نظام لينكس (Linux) الأول هو مايكروسوفت (Microsoft) ونظام تشغيلها ويندوز (Windows)، ولهذا من المتوقع أن تكون العلاقة بينهما تتمثل بطابع من العداوة؛ وبالفعل هكذا كان الحال، حيث كانت مايكروسوفت في السابق العدو الرئيسي لـLinux وحركة المصدر المفتوح، ولكن هل هكذا هو الحال في يومنا هذا؟
+لإنعاش الذاكرة، &ldquo;البرمجيات مفتوحة المصدر&rdquo; ترمز إلى البرامج التي يتم نشر الأكواد البرمجية الخاص بها للعامة، وتكون متاحة للجميع لغاية الشفافية، وكذلك لإمكانية تطويرها من قبل المجتمع أو تعديلها وإعادة نشرها بحرية، وما قد يكون أشهر مثال على البرمجيات مفتوحة المصدر والمشروع الرائد في حركة المصدر المفتوح هو نظام التشغيل Linux." />
+  
+  
+    <meta name="robots" content="all" />
+  
+  
+  <link rel="canonical" href="https://linuxsociety.xyz/ar/posts/microsoft-linux-relationship/" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <link
+    type="text/css"
+    rel="stylesheet"
+    href="/css/main.bundle.min.6b9acd9eb9781c45910a9d7c12cc4aa60c9229913cb0adda6369f0e5dc6ad02ce133e4e045ccb36f3c4c578d0a43e79440a19b73ab7a669bc8872bdcbf122cd8.css"
+    integrity="sha512-a5rNnrl4HEWRCp18EsxKpgySKZE8sK3aY2nw5dxq0CzhM&#43;TgRcyzbzxMV40KQ&#43;eUQKGbc6t6ZpvIhyvcvxIs2A=="
+  />
+  
+  
+  <script type="text/javascript" src="/js/appearance.min.c6198a5ecbc6c7b35a8568d29315f50cf5d775d4461c515a476359767f1a745c245aa83fa96b0c7d83da976cf77481e1fc29537a2391a53ffe69a991638802e6.js" integrity="sha512-xhmKXsvGx7NahWjSkxX1DPXXddRGHFFaR2NZdn8adFwkWqg/qWsMfYPal2z3dIHh/ClTeiORpT/&#43;aamRY4gC5g=="></script>
+  
+  
+    
+    
+  
+  
+    
+    
+  
+  
+    
+    <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.9947db70e5b36e741e53f8531bd734741b3fc7a688f7b5d749fc5433c48efc252f47bdf44e471570a550fc051b87712799014040e6349b38d64448b94e84e45a.js" integrity="sha512-mUfbcOWzbnQeU/hTG9c0dBs/x6aI97XXSfxUM8SO/CUvR730TkcVcKVQ/AUbh3EnmQFAQOY0mzjWREi5ToTkWg==" data-copy="نسخ" data-copied="تم النسخ"></script>
+  
+  
+  
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+  
+  
+  
+  
+  
+  
+  
+  <meta property="og:title" content="موقف مايكروسوفت من لينكس والمصدر المفتوح" />
+<meta property="og:description" content="كما يعرف الجميع، منافس نظام لينكس (Linux) الأول هو مايكروسوفت (Microsoft) ونظام تشغيلها ويندوز (Windows)، ولهذا من المتوقع أن تكون العلاقة بينهما تتمثل بطابع من العداوة؛ وبالفعل هكذا كان الحال، حيث كانت مايكروسوفت في السابق العدو الرئيسي لـLinux وحركة المصدر المفتوح، ولكن هل هكذا هو الحال في يومنا هذا؟
+لإنعاش الذاكرة، &ldquo;البرمجيات مفتوحة المصدر&rdquo; ترمز إلى البرامج التي يتم نشر الأكواد البرمجية الخاص بها للعامة، وتكون متاحة للجميع لغاية الشفافية، وكذلك لإمكانية تطويرها من قبل المجتمع أو تعديلها وإعادة نشرها بحرية، وما قد يكون أشهر مثال على البرمجيات مفتوحة المصدر والمشروع الرائد في حركة المصدر المفتوح هو نظام التشغيل Linux." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://linuxsociety.xyz/ar/posts/microsoft-linux-relationship/" /><meta property="og:image" content="https://linuxsociety.xyz/ar/posts/microsoft-linux-relationship/feature.jpg"/><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-07-16T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-07-16T00:00:00+00:00" /><meta property="og:site_name" content="مجتمع لينكس" />
+
+  <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://linuxsociety.xyz/ar/posts/microsoft-linux-relationship/feature.jpg"/>
+<meta name="twitter:title" content="موقف مايكروسوفت من لينكس والمصدر المفتوح"/>
+<meta name="twitter:description" content="كما يعرف الجميع، منافس نظام لينكس (Linux) الأول هو مايكروسوفت (Microsoft) ونظام تشغيلها ويندوز (Windows)، ولهذا من المتوقع أن تكون العلاقة بينهما تتمثل بطابع من العداوة؛ وبالفعل هكذا كان الحال، حيث كانت مايكروسوفت في السابق العدو الرئيسي لـLinux وحركة المصدر المفتوح، ولكن هل هكذا هو الحال في يومنا هذا؟
+لإنعاش الذاكرة، &ldquo;البرمجيات مفتوحة المصدر&rdquo; ترمز إلى البرامج التي يتم نشر الأكواد البرمجية الخاص بها للعامة، وتكون متاحة للجميع لغاية الشفافية، وكذلك لإمكانية تطويرها من قبل المجتمع أو تعديلها وإعادة نشرها بحرية، وما قد يكون أشهر مثال على البرمجيات مفتوحة المصدر والمشروع الرائد في حركة المصدر المفتوح هو نظام التشغيل Linux."/>
+
+  
+  <script type="application/ld+json">
+  [{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "articleSection": "المدونة",
+    "name": "موقف مايكروسوفت من لينكس والمصدر المفتوح",
+    "headline": "موقف مايكروسوفت من لينكس والمصدر المفتوح",
+    
+    "abstract": "كما يعرف الجميع، منافس نظام لينكس (Linux) الأول هو مايكروسوفت (Microsoft) ونظام تشغيلها ويندوز (Windows)، ولهذا من المتوقع أن تكون العلاقة بينهما تتمثل بطابع من العداوة؛ وبالفعل هكذا كان الحال، حيث كانت مايكروسوفت في السابق العدو الرئيسي لـLinux وحركة المصدر المفتوح، ولكن هل هكذا هو الحال في يومنا هذا؟\nلإنعاش الذاكرة، \u0026ldquo;البرمجيات مفتوحة المصدر\u0026rdquo; ترمز إلى البرامج التي يتم نشر الأكواد البرمجية الخاص بها للعامة، وتكون متاحة للجميع لغاية الشفافية، وكذلك لإمكانية تطويرها من قبل المجتمع أو تعديلها وإعادة نشرها بحرية، وما قد يكون أشهر مثال على البرمجيات مفتوحة المصدر والمشروع الرائد في حركة المصدر المفتوح هو نظام التشغيل Linux.",
+    "inLanguage": "ar",
+    "url" : "https:\/\/linuxsociety.xyz\/ar\/posts\/microsoft-linux-relationship\/",
+    "author" : {
+      "@type": "Person",
+      "name": ""
+    },
+    "copyrightYear": "2023",
+    "dateCreated": "2023-07-16T00:00:00\u002b00:00",
+    "datePublished": "2023-07-16T00:00:00\u002b00:00",
+    
+    "dateModified": "2023-07-16T00:00:00\u002b00:00",
+    
+    
+    
+    "mainEntityOfPage": "true",
+    "wordCount": "490"
+  }]
+  </script>
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+  
+  
+</head>
+<body
+    class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32"
+  >
+    <div id="the-top" class="absolute flex self-center">
+      <a
+        class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
+        href="#main-content"
+        ><span class="font-bold text-primary-600 ltr:pr-2 rtl:pl-2 dark:text-primary-400"
+          >&darr;</span
+        >التخطي إلى المحتوى الرئيسي</a
+      >
+    </div>
+    
+    
+      <header class="py-6 font-semibold text-neutral-900 dark:text-neutral print:hidden sm:py-10">
+  <nav class="flex items-start justify-between sm:items-center">
+    
+    <div class="flex flex-row items-center">
+      
+  <a
+    class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+    rel="me"
+    href="/ar/"
+    >مجتمع لينكس</a
+  >
+
+      
+  <ul class="flex flex-row list-none">
+    
+      <li class="ml-2">
+        <a
+          href="/posts/microsoft-linux-relationship/"
+          class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+          >🇬🇧</a
+        >
+      </li>
+    
+      <li class="ml-2">
+        <a
+          href="/ar/posts/microsoft-linux-relationship/"
+          class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+          >🇯🇴</a
+        >
+      </li>
+    
+  </ul>
+
+
+    </div>
+    
+    
+      <ul class="flex flex-col list-none ltr:text-right rtl:text-left sm:flex-row">
+        
+          
+            <li
+              class="mb-1 group sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0"
+            >
+              
+                <a
+                  href="/ar/posts/"
+                  title="المدونة"
+                  
+                  >
+                    <span
+                      class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2"
+                      >المدونة</span
+                    >
+                  </a
+                >
+              
+            </li>
+          
+            <li
+              class="mb-1 group sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0"
+            >
+              
+                <a
+                  href="/ar/news/"
+                  title="الأخبار"
+                  
+                  >
+                    <span
+                      class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2"
+                      >الأخبار</span
+                    >
+                  </a
+                >
+              
+            </li>
+          
+            <li
+              class="mb-1 group sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0"
+            >
+              
+                <a
+                  href="/ar/vids/"
+                  title="الفيديوهات"
+                  
+                  >
+                    <span
+                      class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2"
+                      >الفيديوهات</span
+                    >
+                  </a
+                >
+              
+            </li>
+          
+            <li
+              class="mb-1 group sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0"
+            >
+              
+                <a
+                  href="https://facebook.com/linux.ju"
+                  title=""
+                  target="_blank"
+                  >
+                    <span
+                      class="transition-colors group-dark:hover:text-primary-400 group-hover:text-primary-600"
+                    >
+                      
+
+  <span class="relative inline-block align-text-bottom icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"/></svg>
+
+  </span>
+
+
+                    </span>
+                  </a
+                >
+              
+            </li>
+          
+            <li
+              class="mb-1 group sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0"
+            >
+              
+                <a
+                  href="https://instagram.com/linux.ju"
+                  title=""
+                  target="_blank"
+                  >
+                    <span
+                      class="transition-colors group-dark:hover:text-primary-400 group-hover:text-primary-600"
+                    >
+                      
+
+  <span class="relative inline-block align-text-bottom icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg>
+
+  </span>
+
+
+                    </span>
+                  </a
+                >
+              
+            </li>
+          
+            <li
+              class="mb-1 group sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0"
+            >
+              
+                <a
+                  href="https://www.linkedin.com/company/linux-society-at-ju"
+                  title=""
+                  target="_blank"
+                  >
+                    <span
+                      class="transition-colors group-dark:hover:text-primary-400 group-hover:text-primary-600"
+                    >
+                      
+
+  <span class="relative inline-block align-text-bottom icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+
+  </span>
+
+
+                    </span>
+                  </a
+                >
+              
+            </li>
+          
+          
+        
+      </ul>
+    
+  </nav>
+</header>
+
+    
+    <div class="relative flex flex-col grow">
+      <main id="main-content" class="grow">
+        
+  <article>
+    <header class="max-w-prose">
+      
+      <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+        موقف مايكروسوفت من لينكس والمصدر المفتوح
+      </h1>
+      <div class="mt-8 mb-12 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+        
+
+
+
+
+
+  
+  
+
+
+
+  
+
+  
+  
+    
+  
+
+  
+
+  
+
+  
+    
+  
+
+  
+
+  <div class="flex flex-row flex-wrap items-center">
+    
+    
+      <time datetime="2023-07-16 00:00:00 &#43;0000 UTC">16 يوليو 2023</time><span class="px-2 text-primary-500">&middot;</span><span title="وقت القراءة">3 من الدقائق</span>
+    
+
+    
+    
+  </div>
+
+  
+  
+
+
+      </div>
+      
+        <div class="prose">
+          <img
+            class="mb-6 -mt-4 rounded-md"
+            
+              
+                srcset=" /ar/posts/microsoft-linux-relationship/feature_hu4319d5ff4a4e9c05cba253c9f6e69f4d_41654_330x0_resize_q75_box.jpg 330w,
+                /ar/posts/microsoft-linux-relationship/feature_hu4319d5ff4a4e9c05cba253c9f6e69f4d_41654_660x0_resize_q75_box.jpg 660w, /ar/posts/microsoft-linux-relationship/feature_hu4319d5ff4a4e9c05cba253c9f6e69f4d_41654_1024x0_resize_q75_box.jpg
+                1024w, /ar/posts/microsoft-linux-relationship/feature_hu4319d5ff4a4e9c05cba253c9f6e69f4d_41654_1320x0_resize_q75_box.jpg 2x"
+                src="/ar/posts/microsoft-linux-relationship/feature_hu4319d5ff4a4e9c05cba253c9f6e69f4d_41654_660x0_resize_q75_box.jpg"
+              
+            
+            alt=""
+          />
+          
+        </div>
+      
+    </header>
+    <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
+      
+      <div class="min-w-0 min-h-0 max-w-prose grow">
+        <p>كما يعرف الجميع، منافس نظام لينكس (Linux) الأول هو مايكروسوفت (Microsoft)  ونظام تشغيلها ويندوز (Windows)، ولهذا من المتوقع أن تكون العلاقة بينهما تتمثل بطابع من العداوة؛ وبالفعل هكذا كان الحال، حيث كانت مايكروسوفت في السابق العدو الرئيسي لـLinux وحركة المصدر المفتوح، ولكن هل هكذا هو الحال في يومنا هذا؟</p>
+<p>لإنعاش الذاكرة، &ldquo;البرمجيات مفتوحة المصدر&rdquo; ترمز إلى البرامج التي يتم نشر الأكواد البرمجية الخاص بها للعامة، وتكون متاحة للجميع لغاية الشفافية، وكذلك لإمكانية تطويرها من قبل المجتمع أو تعديلها وإعادة نشرها بحرية، وما قد يكون أشهر مثال على البرمجيات مفتوحة المصدر والمشروع الرائد في حركة المصدر المفتوح هو نظام التشغيل Linux.</p>
+<p>على مر السنين، حوّلت Microsoft علاقتها مع البرمجيات مفتوحة المصدر ومجتمع Linux. كان هذا التحول تطورًا مهمًا في صناعة التكنولوجيا، حيث جمع بين، ما كان يبدو على أنه قوتين متعارضتين، وساعد في دفع الابتكار والتعاون.</p>
+<p>حيث أن Microsoft وفي بداية القرن الحالي، كانت ترى مجتمع المصدر المفتوح كتهديد على نموذج العمل المبني على التراخيص الذي تعتمده الشركة، حتى أن المدير التنفيذي في ذلك الوقت، نعت Linux بالـ&quot;سرطان&quot;، وقيام الشركة باحتكار العديد من براءات الاختراع واستغلالها في رفع الدعاوي القضائية، والتي كانت غالبًا ما كانت تنتهي بالخسارة، ضد الشركات التي تتبنى وتدعم البرمجيات المفتوحة المصدر.</p>
+<p>ولكن وعبر الزمن، بدأت Microsoft بتغيير نظرتها للأمور، واعترفت بأن البرمجيات مفتوحة المصدر يمكن أن تكون أداة قيمة لدفع الابتكار ودعم نمو الأعمال. ومن خلال تبني البرمجيات مفتوحة المصدر، تمكنت Microsoft من الاستفادة من خبرة وإبداع مجتمع المصادر المفتوحة العالمي، كما تمكنت من المساهمة في تطوير ونمو مشاريع مفتوحة المصدر.</p>
+<p>كان أحد أهم الأمثلة على احتضان Microsoft  للبرامج مفتوحة المصدر هو تقديمها لمساهمات كبيرة في مشروع Linux ، حيث قامت في مرات عديدة بإضافة أكواد لتطوير وإضافة مميزات عديدة للنظام منها تعزيز التعامل مع الشبكات والأمان. كما أنها أصدرت نظام WSL والذي يتيح للمطورين تشغيل Linux بشكل مُضمّن داخل Windows ، مما يسهل إنشاء التطبيقات التي يمكن نشرها عبر منصات متعددة.</p>
+<p>وبالطبع لا يمكن أن ننسى أكبر بصمة لـMicrosoft في مجتمع المصدر المفتوح، حيث أنها قبل عدّة سنوات بشراء منصة GitHub  وأكبر منصة الاستضافة البرمجيات مفتوحة المصدر في العالم. وقد واصلت الشركة بالاستثمار في GitHub وقدمت مساهمات كبيرة لمشاريع مفتوحة المصدر المستضافة عليه. قامت الشركة أيضًا بفتح المصدر للعديد من مشاريعها الخاصة.</p>
+<p>وبالإضافة لكل هذه المساهمات من طرف Microsoft  فهي أيضًا عضو في شبكة الاختراع المفتوح (OIN)، وهي عبارة عن مجموعة من الشركات التي تشارك براءات الاختراع وتراخيص الملكية الفكرية مع بعضها البعض مع الاتفاق على عدم فرضها على Linux والأنظمة المبنية عليه.</p>
+<p>بشكل عام، الصورة في عقول البعض عن وجود عداوة بين Microsoft وLinux ربما كانت صحيحة يومًا ما، ولكن اليوم، الحال على خلاف ذلك تمامًا، حيث أن Microsoft تعتبر شركة رائدة في دعم مجتمع المصدر المفتوح، وتستمر في دعم موقفها هذا باستمرار عبر السنين سواءً بأمور بسيطة كفتحها لمصدر برنامج &ldquo;الآلة الحاسبة&rdquo; الخاص بها أو تصرفات ذات تأثير عالمي كاستحواذها على أكبر منصة مستضيفة للبرمجيات مفتوحة المصدر ومشاركتها في في شبكة الاختراع المفتوح بأكثر من 60,000 براءة اختراع. على شركات التكنولوجيا التعلم من ماضي Microsoft وأخذها كقدوة واستنتاج أن الحرب ضد المصدر المفتوح خاسرة.</p>
+
+      </div>
+    </section>
+    <footer class="pt-8 max-w-prose print:hidden">
+      
+
+	<div class="flex">
+		
+		
+		
+			
+			
+				
+					<img
+						class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4"
+						width="96"
+						height="96"
+						alt="صفوان الجدي"
+						src="/img/safwan_hub85082aa6dc34835956f836d630e3b08_10840_192x192_fill_q75_box_smart1.jpg"
+					/>
+			
+		
+
+		<div class="place-self-center">
+			
+				<div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
+					الكاتب
+				</div>
+			
+				<div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
+					صفوان الجدي
+				</div>
+			
+			
+			
+			
+				<div class="text-sm text-neutral-700 dark:text-neutral-400">
+					مؤسس وقائد مجتمع لينكس.
+				</div>
+			
+			
+			
+			<div class="text-2xl sm:text-lg">
+				
+					<div class="flex flex-wrap text-neutral-400 dark:text-neutral-500">
+						
+							
+								<a
+									class="px-1 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400"
+									style="will-change:transform;"
+									href="mailto:eljadi@ieee.org"
+									target="_blank"
+									aria-label="Email"
+									rel="me noopener noreferrer"
+								>
+
+  <span class="relative inline-block align-text-bottom icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M207.8 20.73c-93.45 18.32-168.7 93.66-187 187.1c-27.64 140.9 68.65 266.2 199.1 285.1c19.01 2.888 36.17-12.26 36.17-31.49l.0001-.6631c0-15.74-11.44-28.88-26.84-31.24c-84.35-12.98-149.2-86.13-149.2-174.2c0-102.9 88.61-185.5 193.4-175.4c91.54 8.869 158.6 91.25 158.6 183.2l0 16.16c0 22.09-17.94 40.05-40 40.05s-40.01-17.96-40.01-40.05v-120.1c0-8.847-7.161-16.02-16.01-16.02l-31.98 .0036c-7.299 0-13.2 4.992-15.12 11.68c-24.85-12.15-54.24-16.38-86.06-5.106c-38.75 13.73-68.12 48.91-73.72 89.64c-9.483 69.01 43.81 128 110.9 128c26.44 0 50.43-9.544 69.59-24.88c24 31.3 65.23 48.69 109.4 37.49C465.2 369.3 496 324.1 495.1 277.2V256.3C495.1 107.1 361.2-9.332 207.8 20.73zM239.1 304.3c-26.47 0-48-21.56-48-48.05s21.53-48.05 48-48.05s48 21.56 48 48.05S266.5 304.3 239.1 304.3z"/></svg>
+
+  </span>
+
+</a>
+							
+						
+							
+								<a
+									class="px-1 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400"
+									style="will-change:transform;"
+									href="https://facebook.com/safwan.fb"
+									target="_blank"
+									aria-label="Facebook"
+									rel="me noopener noreferrer"
+								>
+
+  <span class="relative inline-block align-text-bottom icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"/></svg>
+
+  </span>
+
+</a>
+							
+						
+							
+								<a
+									class="px-1 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400"
+									style="will-change:transform;"
+									href="https://linkedin.com/in/safwan-eljadi"
+									target="_blank"
+									aria-label="Linkedin"
+									rel="me noopener noreferrer"
+								>
+
+  <span class="relative inline-block align-text-bottom icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+
+  </span>
+
+</a>
+							
+						
+					</div>
+				
+			</div>
+
+		</div>
+	</div>
+
+
+
+      
+
+      
+  
+    
+    
+    
+    <div class="pt-8">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+      <div class="flex justify-between pt-3">
+        <span>
+          
+        </span>
+        <span>
+          
+            <a class="group flex text-right" href="/ar/posts/open-knowledge/">
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >المعرفة المفتوحة: نظرة أوسع لمفهوم الانفتاح</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2024-03-17 00:00:00 &#43;0000 UTC">17 مارس 2024</time>
+                  
+                </span>
+              </span>
+              <span
+                class="ml-2 text-neutral-700 transition-transform group-hover:translate-x-[2px] group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span
+                class="mr-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+            </a>
+          
+        </span>
+      </div>
+    </div>
+  
+
+
+      
+    </footer>
+  </article>
+
+        
+          <div
+            class="pointer-events-none absolute top-[100vh] bottom-0 w-12 ltr:right-0 rtl:left-0"
+          >
+            <a
+              href="#the-top"
+              class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 backdrop-blur hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+              aria-label="اذهب إلى أعلى"
+              title="اذهب إلى أعلى"
+            >
+              &uarr;
+            </a>
+          </div>
+        
+      </main><footer class="py-10 print:hidden">
+  
+  
+  <div class="flex items-center justify-between">
+    <div>
+      
+      
+        <p class="text-sm text-neutral-500 dark:text-neutral-400">
+            CC-BY-SA 3.0
+        </p>
+      
+      
+      
+    </div>
+    
+    
+      <div
+        class="ltr:mr-14 rtl:ml-14 cursor-pointer text-sm text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
+      >
+        <button id="appearance-switcher-0" type="button" aria-label="appearance switcher">
+          <div
+            class="flex items-center justify-center w-12 h-12 dark:hidden"
+            title="حوّل إلى النمط الداكن"
+          >
+            
+
+  <span class="relative inline-block align-text-bottom icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M32 256c0-123.8 100.3-224 223.8-224c11.36 0 29.7 1.668 40.9 3.746c9.616 1.777 11.75 14.63 3.279 19.44C245 86.5 211.2 144.6 211.2 207.8c0 109.7 99.71 193 208.3 172.3c9.561-1.805 16.28 9.324 10.11 16.95C387.9 448.6 324.8 480 255.8 480C132.1 480 32 379.6 32 256z"/></svg>
+
+  </span>
+
+
+          </div>
+          <div
+            class="items-center justify-center hidden w-12 h-12 dark:flex"
+            title="حوّل إلى النمط الفاتح"
+          >
+            
+
+  <span class="relative inline-block align-text-bottom icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 159.1c-53.02 0-95.1 42.98-95.1 95.1S202.1 351.1 256 351.1s95.1-42.98 95.1-95.1S309 159.1 256 159.1zM509.3 347L446.1 255.1l63.15-91.01c6.332-9.125 1.104-21.74-9.826-23.72l-109-19.7l-19.7-109c-1.975-10.93-14.59-16.16-23.72-9.824L256 65.89L164.1 2.736c-9.125-6.332-21.74-1.107-23.72 9.824L121.6 121.6L12.56 141.3C1.633 143.2-3.596 155.9 2.736 164.1L65.89 256l-63.15 91.01c-6.332 9.125-1.105 21.74 9.824 23.72l109 19.7l19.7 109c1.975 10.93 14.59 16.16 23.72 9.824L256 446.1l91.01 63.15c9.127 6.334 21.75 1.107 23.72-9.822l19.7-109l109-19.7C510.4 368.8 515.6 356.1 509.3 347zM256 383.1c-70.69 0-127.1-57.31-127.1-127.1c0-70.69 57.31-127.1 127.1-127.1s127.1 57.3 127.1 127.1C383.1 326.7 326.7 383.1 256 383.1z"/></svg>
+
+  </span>
+
+
+          </div>
+        </button>
+      </div>
+    
+  </div>
+  
+  
+</footer>
+
+    </div>
+  </body>
+</html>

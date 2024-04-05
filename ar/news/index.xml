@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>الأخبار on مجتمع لينكس</title>
+    <link>https://linuxsociety.xyz/ar/news/</link>
+    <description>Recent content in الأخبار on مجتمع لينكس</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <copyright>CC-BY-SA 3.0</copyright>
+    <lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/ar/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>إطلاق الـ &#34;01 لايت&#34;</title>
+      <link>https://linuxsociety.xyz/ar/news/01-light/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/ar/news/01-light/</guid>
+      <description>تغريدة الإعلان # التغريدة الأصلية # Introducing the 01 Developer Preview.
+Order or build your own today: https://t.co/ROEcj9jVPX
+The 01 Light is a portable voice interface that controls your home computer. It can see your screen, use your apps, and learn new skills.
+This is only the beginning for 01— the… pic.twitter.com/J5VoWlCI5i
+&amp;mdash; Open Interpreter (@OpenInterpreter) March 21, 2024 ترجمة التغريدة # نقدم لكم نسخة المطورين من 01.
+اطلب أو أنشئ النسخة الخاصة بك اليوم: https://t.</description>
+    </item>
+    
+    <item>
+      <title>التسجيل مفتوح: تدريب (Git) المقدم من (جوسا)</title>
+      <link>https://linuxsociety.xyz/ar/news/josa-git-training/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/ar/news/josa-git-training/</guid>
+      <description>ما هو (Git)؟ # (Git) هو نظام مهم للتحكم في إصدارات البرامج، يُستخدم لتتبع التغييرات في الملفات وتنسيق العمل بين الفرق. فهو يتيح الإدارة الفعالة للإصدارات المختلفة للمشروع من خلال التفرع والدمج، مما يجعله ضروريًا لتطوير البرمجيات.
+مفتاح النظام البيئي لـ (Git) هو منصات مثل GitHub وGitLab، والتي توفر استضافة على الويب لمستودعات (Git). لا تقوم هذه الخدمات بتخزين المشاريع فحسب، بل توفر أيضًا أدوات للتعاون وتتبع المشكلات ومشاركة التعليمات البرمجية، مما يجعل لا غنى عنها في تطوير البرامج الحديثة.</description>
+    </item>
+    
+    <item>
+      <title>مصادر: أول جلسة تدريبية على SEED Labs</title>
+      <link>https://linuxsociety.xyz/ar/news/post-seed-labs-1/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/ar/news/post-seed-labs-1/</guid>
+      <description>تحتوي هذه الصفحة على المصادر ذات الصلة من أول جلسة تدريبية خاصة بـSEED Labs، والذي عُقدت يوم الأربعاء، 8 نوفمبر.
+ما هو (SEED Labs)؟ # الروابط # موقع SEED Labs الإلكتروني صفحة المختبر* إرشادات المختبر* روابط تنزيل المختبر* * (المختبر) يشير إلى مختبر الـSEED Labs تحت عنوان (SQL Injection Attack Lab) والذي كان محور هذه الجلسة التدريبية.
+كيفية تنصيب مختبر SEED Labs # هذا فيديو قصير لتذكيرك بكيفية تنصيب مختبر SEED Labs على جهازك</description>
+    </item>
+    
+  </channel>
+</rss>
