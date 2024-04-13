@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC-BY-SA 3.0</copyright>
-    <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Free and Open Source Software (FOSS) Alternatives</title>
+      <link>https://linuxsociety.xyz/posts/foss-alts/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/posts/foss-alts/</guid>
+      <description>What&amp;rsquo;s FOSS? # FOSS stands for &amp;ldquo;Free and Open Source Software&amp;rdquo;, which means software that&amp;rsquo;s not only free to use but also open for anyone to tinker with, customize, or even distribute. It is a community-driven approach to software development, where the code is transparent and contributions are a collaborative effort.
+why should I use FOSS? # Switching to FOSS alternatives is a smart move for several reasons:
+Cost: FOSS is and will always be free, you will never have to bother with subscriptions or corporations changing pricings or policies on a whim.</description>
+    </item>
+    
     <item>
       <title>Linux in the Arab and Islamic World</title>
       <link>https://linuxsociety.xyz/posts/arabic-linux/</link>

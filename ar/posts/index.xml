@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language>
     <copyright>CC-BY-SA 3.0</copyright>
-    <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/ar/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/ar/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>بدائل مجانية ومفتوحة المصدر (FOSS)</title>
+      <link>https://linuxsociety.xyz/ar/posts/foss-alts/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/ar/posts/foss-alts/</guid>
+      <description>ماذا نعني بـ &amp;ldquo;FOSS&amp;rdquo;؟ # FOSS هو اختصار لـ&amp;quot;Free and Open Source Software&amp;quot; معناه البرمجيات المفتوحة المصدر والمجانية، أي البرامج التي تسمح لأي شخص يرغب بتفحص الشفرة المصدرية وبتعديلها، أو توزيعها، أو إعادة نشرها، أو بيعها ، بالإضافة إلى كونها مجانية الاستخدام. وهي أيضا فلسفة ونهج في تطوير البرمجيات، فيه تكون كتابة البرامج عمل تعاوني بين مجتمع مستخدمي البرنامج، مع التركيز على شفافية ووضوح المساهمات والتعديلات على البرنامج.
+كيف تكون البرامج مفتوحة المصدر أفضل من غيرها؟ # التكلفة: البرمجيات مفتوحة المصدر مجانية وستظل كذلك دائمًا، لا توجد أي اشتراكات أو تكاليف لاستخدام البرنامج، ولن تتفاجأ بارتفاع أسعار الاشتراكات أو إزالة بعض الميزات المجانية كما يفعل بعض مطوري البرامج المدفوعة أو شبه المجانية.</description>
+    </item>
+    
     <item>
       <title>لينكس في العالم العربي والإسلامي</title>
       <link>https://linuxsociety.xyz/ar/posts/arabic-linux/</link>
