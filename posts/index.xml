@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC-BY-SA 3.0</copyright>
-    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Open-Source Licensing</title>
+      <link>https://linuxsociety.xyz/posts/licenses/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/posts/licenses/</guid>
+      <description>What is Open-Source Licensing # Open-source licenses are software licenses that allow content to be used, modified, and shared. Their main goal is to facilitate free and open-source software (FOSS) development.
+Different Classes of Licenses # Open-source licenses are categorized as either copyleft or permissive.
+Copyleft licenses: It is a method for making a software program free while requiring that all modified and extended versions of the program also be free, and released under the same terms and conditions.</description>
+    </item>
+    
     <item>
       <title>Free and Open Source Software (FOSS) Alternatives</title>
       <link>https://linuxsociety.xyz/posts/foss-alts/</link>

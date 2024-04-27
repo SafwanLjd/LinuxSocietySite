@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language>
     <copyright>CC-BY-SA 3.0</copyright>
-    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/ar/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/ar/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>فهم الرخص مفتوحة المصدر</title>
+      <link>https://linuxsociety.xyz/ar/posts/licenses/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/ar/posts/licenses/</guid>
+      <description>ما هي الرخص مفتوحة المصدر؟ # الرخص مفتوحة المصدر هي رخص للبرمجيات تسمح بإعادة استخدام المحتوى وتعديله ونشره، وهي تهدف بشكل رئيسي لتسهيل تطوير البرمجيات المجانية ومفتوحة المصدر.
+أنواع الرخص مفتوحة المصدر # تصنف الرخص مفتوحة المصدر إلى نوعين: رخص حقوق متروكة &amp;ldquo;copyleft&amp;rdquo; ورخص متساهلة &amp;ldquo;permissive&amp;rdquo;.
+رخص الحقوق المتروكة: هي وسيلة لجعل البرنامج مفتوح المصدر وتقييد أي نسخة معدلة أو محسنة من البرنامج بأن تكون مفتوحة المصدر أيضًا، وأن تخضع هذه النسخة لذات الشروط والأحكام.</description>
+    </item>
+    
     <item>
       <title>بدائل مجانية ومفتوحة المصدر (FOSS)</title>
       <link>https://linuxsociety.xyz/ar/posts/foss-alts/</link>
