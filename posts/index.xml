@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC-BY-SA 3.0</copyright>
-    <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxsociety.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Linux?</title>
+      <link>https://linuxsociety.xyz/posts/why-linux/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuxsociety.xyz/posts/why-linux/</guid>
+      <description>Introduction # Whenever we mention the word &amp;ldquo;operating system&amp;rdquo;, most people think of titles like Windows, which is by far the most common desktop OS with a market share of 72.2%. Others might first think of macOS, which is also quite common and growing rapidly thanks to the new M series chips that have boosted its market share to 15.4%. However, a smaller but dedicated group (around 4%) might think of Linux first.</description>
+    </item>
+    
     <item>
       <title>Understanding Open-Source Licensing</title>
       <link>https://linuxsociety.xyz/posts/licenses/</link>
